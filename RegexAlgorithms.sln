@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexAlgorithms", "RegexAlgorithms\RegexAlgorithms.csproj", "{EC5F7E5A-2664-4083-8776-1FDD31C8923F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5F7E5A-2664-4083-8776-1FDD31C8923F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F7E5A-2664-4083-8776-1FDD31C8923F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F7E5A-2664-4083-8776-1FDD31C8923F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F7E5A-2664-4083-8776-1FDD31C8923F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
